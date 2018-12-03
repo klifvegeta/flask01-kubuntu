@@ -33,3 +33,4 @@ def create_app():
         return 'Output table page: {} - {}'.format(id, title)
 
     return app
+#Menggunakan Alembic Untuk Memudahkan Perawatan Basis Data
